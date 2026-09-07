@@ -1,6 +1,4 @@
-Rayaan Waheed
-
-- Student developer with experience in software development, robotics, embedded systems, and technical project development.
+Student developer with experience in software development, robotics, embedded systems, and technical project development.
 
 Experience:
 
